@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Umut KOZAN</h1>
 <h3 align="center">I am an expert in Java development and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
 
+<img src="https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/FireAnimation.gif" alt="Coding Background" style="width:100%;"/>
+
 - 🔭 I’m currently working on **Veterinary management system**
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, Rest API**
