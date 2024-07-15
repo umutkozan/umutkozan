@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Umut KOZAN</h1>
 <h3 align="center">I am an expert in Java development and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
 
-<img src="https://miro.medium.com/max/2400/1*ZSVmWGcc1qP0HF8zFQW4bw.png" alt="Coding Background" style="width:100%;"/>
+<img src="/mnt/data/267949951_4403877289734837_7588047111201399100_n.jpg" alt="Umut Kozan with Students" style="width:100%;"/>
 
 - 🔭 I’m currently working on **Veterinary management system**
 
@@ -15,14 +15,14 @@
 
 - 📄 Know about my experiences [umut-kozan-b4b051209](https://www.linkedin.com/in/umut-kozan-b4b051209/)
 
-- ⚡ I love traveling, camping, and coming together with people I don't know to create new projects**
+- ⚡ I love traveling, camping, coming together with people I don't know to create new projects, and giving voluntary computer hardware and software training to young students**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/umutkozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="umutkozan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/umut-kozan-b4b051209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-kozan-b4b051209/" height="30" width="40" /></a>
 <a href="https://fb.com/umtkozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umtkozan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umutkkozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umutkkozan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/umutkkozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umutkozan" height="30" width="40" /></a>
 <a href="https://github.com/umutkozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="umutkozan" height="30" width="40" /></a>
 </p>
 
