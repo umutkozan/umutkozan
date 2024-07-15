@@ -1,22 +1,19 @@
 <h1 align="center">Hello 👋, I'm Umut KOZAN</h1>
 <h3 align="center">I am an expert in Java development and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>
-      - 🔭 I’m currently working on <strong>Veterinary management system</strong><br>
-      - 🌱 I’m currently learning <strong>Spring Boot, Hibernate, Rest API</strong><br>
-      - 📝 I regularly write articles on <a href="https://dev.to/umutkozan">@umutkkozan</a><br>
-      - 💬 Ask me about <strong>java, mysql, javascript</strong><br>
-      - 📫 How to reach me <strong>umutkkozan@gmail.com</strong><br>
-      - 📄 Know about my experiences <a href="https://www.linkedin.com/in/umut-kozan-b4b051209/">umut-kozan-b4b051209</a><br>
-      - ⚡ I love traveling, camping, coming together with people I don't know to create new projects, and giving voluntary computer hardware and software training to young students**
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/umutkozan/umutkozan/blob/f368344a36fa36c0d0f15827c35dac7c2ea60d83/267949951_4403877289734837_7588047111201399100_n.jpg" alt="Umut Kozan with Students" style="width:80%; border-radius: 15px;"/>
-  </div>
-</div>
+- 🔭 I’m currently working on **Veterinary management system**
+
+- 🌱 I’m currently learning **Spring Boot, Hibernate, Rest API**
+
+- 📝 I regularly write articles on [@umutkkozan](https://dev.to/umutkozan)
+
+- 💬 Ask me about **java, mysql, javascript**
+
+- 📫 How to reach me **umutkkozan@gmail.com**
+
+- 📄 Know about my experiences [umut-kozan-b4b051209](https://www.linkedin.com/in/umut-kozan-b4b051209/)
+
+- ⚡ I love traveling, camping, coming together with people I don't know to create new projects, and giving voluntary computer hardware and software training to young students**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
