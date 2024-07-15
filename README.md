@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Umut KOZAN</h1>
-<h3 align="center">I am an expert in Java development and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
+<h3 align="center">I am a Junior Java Developer and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
 
 - 🔭 I’m currently working on **Veterinary management system**
 
@@ -13,7 +13,9 @@
 
 - 📄 Know about my experiences [umut-kozan-b4b051209](https://www.linkedin.com/in/umut-kozan-b4b051209/)
 
-- ⚡"I love traveling, camping, and coming together with people I don't know to create new projects. I also enjoy giving voluntary computer hardware and software training to young students."
+- ⚡ Fun fact **I love traveling, camping, and coming together with people I don't know to create new projects. I also enjoy giving voluntary computer hardware and software training to young students.**
+
+- 🎓 I graduated from **Management Information Systems** and started a venture called **Gezgin Bilişim** while I was a student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,21 +27,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-</p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutkozan&show_icons=true&locale=en&layout=compact" alt="umutkozan" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umutkozan&show_icons=true&locale=en" alt="umutkozan" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=umutkozan&show_icons=true&locale=en" alt="umutkozan" /></p>
