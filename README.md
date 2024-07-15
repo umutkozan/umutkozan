@@ -2,7 +2,6 @@
 <h3 align="center">I am an expert in Java development and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
 
 <img src="/mnt/data/267949951_4403877289734837_7588047111201399100_n.jpg" alt="Umut Kozan with Students" style="width:100%;"/>
-![Uploading 267949951_4403877289734837_7588047111201399100_n.jpg…]()
 
 - 🔭 I’m currently working on **Veterinary management system**
 
