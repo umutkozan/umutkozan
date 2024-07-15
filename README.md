@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Umut KOZAN</h1>
 <h3 align="center">I am an expert in Java development and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
 
-<img src="https://github.com/umutkozan/umutkozan/blob/f368344a36fa36c0d0f15827c35dac7c2ea60d83/267949951_4403877289734837_7588047111201399100_n.jpg" alt="Umut Kozan with Students" style="width:100%;"/>
+<img src="https://github.com/umutkozan/umutkozan/blob/f368344a36fa36c0d0f15827c35dac7c2ea60d83/267949951_4403877289734837_7588047111201399100_n.jpg" alt="Umut Kozan with Students" style="width:50%; border-radius: 15px; display: block; margin-left: auto; margin-right: auto;"/>
 
 - 🔭 I’m currently working on **Veterinary management system**
 
