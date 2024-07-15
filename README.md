@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [umut-kozan-b4b051209](https://www.linkedin.com/in/umut-kozan-b4b051209/)
 
-- ⚡ Fun fact **I love traveling, camping, and coming together with people I don't know to create new projects**
+- ⚡ I love traveling, camping, and coming together with people I don't know to create new projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
