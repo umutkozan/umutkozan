@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Umut KOZAN</h1>
-<h3 align="center">I am a Junior Java Developer and also have experience with JavaScript and Bootstrap. I can provide comprehensive, ready-to-use packages for both backend and frontend development.</h3>
+<h3 align="center">I am a Junior Java Developer.</h3>
 
 - 🔭 I’m currently working on **Veterinary management system**
 
